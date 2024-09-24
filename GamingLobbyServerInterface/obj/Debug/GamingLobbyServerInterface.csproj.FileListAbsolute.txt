@@ -1,0 +1,24 @@
+C:\Users\JATHU\Downloads\DC assignment\.vs\GamingLobbyServerInterface\bin\Debug\GamingLobbyServerInterface.dll
+C:\Users\JATHU\Downloads\DC assignment\.vs\GamingLobbyServerInterface\bin\Debug\GamingLobbyServerInterface.pdb
+C:\Users\JATHU\Downloads\DC assignment\.vs\GamingLobbyServerInterface\obj\Debug\GamingLobbyServerInterface.csproj.AssemblyReference.cache
+C:\Users\JATHU\Downloads\DC assignment\.vs\GamingLobbyServerInterface\obj\Debug\GamingLobbyServerInterface.csproj.CoreCompileInputs.cache
+C:\Users\JATHU\Downloads\DC assignment\.vs\GamingLobbyServerInterface\obj\Debug\GamingLobbyServerInterface.dll
+C:\Users\JATHU\Downloads\DC assignment\.vs\GamingLobbyServerInterface\obj\Debug\GamingLobbyServerInterface.pdb
+C:\Users\JATHU\Downloads\DC assignment\GamingLobbyServerInterface\bin\Debug\GamingLobbyServerInterface.dll
+C:\Users\JATHU\Downloads\DC assignment\GamingLobbyServerInterface\bin\Debug\GamingLobbyServerInterface.pdb
+C:\Users\JATHU\Downloads\DC assignment\GamingLobbyServerInterface\obj\Debug\GamingLobbyServerInterface.csproj.AssemblyReference.cache
+C:\Users\JATHU\Downloads\DC assignment\GamingLobbyServerInterface\obj\Debug\GamingLobbyServerInterface.csproj.CoreCompileInputs.cache
+C:\Users\JATHU\Downloads\DC assignment\GamingLobbyServerInterface\obj\Debug\GamingLobbyServerInterface.dll
+C:\Users\JATHU\Downloads\DC assignment\GamingLobbyServerInterface\obj\Debug\GamingLobbyServerInterface.pdb
+C:\Users\Aflah\Downloads\DC assignment1\DC assignment\GamingLobbyServerInterface\bin\Debug\GamingLobbyServerInterface.dll
+C:\Users\Aflah\Downloads\DC assignment1\DC assignment\GamingLobbyServerInterface\bin\Debug\GamingLobbyServerInterface.pdb
+C:\Users\Aflah\Downloads\DC assignment1\DC assignment\GamingLobbyServerInterface\obj\Debug\GamingLobbyServerInterface.csproj.AssemblyReference.cache
+C:\Users\Aflah\Downloads\DC assignment1\DC assignment\GamingLobbyServerInterface\obj\Debug\GamingLobbyServerInterface.csproj.CoreCompileInputs.cache
+C:\Users\Aflah\Downloads\DC assignment1\DC assignment\GamingLobbyServerInterface\obj\Debug\GamingLobbyServerInterface.dll
+C:\Users\Aflah\Downloads\DC assignment1\DC assignment\GamingLobbyServerInterface\obj\Debug\GamingLobbyServerInterface.pdb
+C:\Users\JATHU\Videos\DC assignment1\DC assignment1\DC assignment\GamingLobbyServerInterface\bin\Debug\GamingLobbyServerInterface.dll
+C:\Users\JATHU\Videos\DC assignment1\DC assignment1\DC assignment\GamingLobbyServerInterface\bin\Debug\GamingLobbyServerInterface.pdb
+C:\Users\JATHU\Videos\DC assignment1\DC assignment1\DC assignment\GamingLobbyServerInterface\obj\Debug\GamingLobbyServerInterface.csproj.AssemblyReference.cache
+C:\Users\JATHU\Videos\DC assignment1\DC assignment1\DC assignment\GamingLobbyServerInterface\obj\Debug\GamingLobbyServerInterface.csproj.CoreCompileInputs.cache
+C:\Users\JATHU\Videos\DC assignment1\DC assignment1\DC assignment\GamingLobbyServerInterface\obj\Debug\GamingLobbyServerInterface.dll
+C:\Users\JATHU\Videos\DC assignment1\DC assignment1\DC assignment\GamingLobbyServerInterface\obj\Debug\GamingLobbyServerInterface.pdb
