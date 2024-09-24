@@ -1,0 +1,88 @@
+C:\Users\JATHU\Downloads\DC assignment\.vs\ClientServer\bin\Debug\ClientServer.exe.config
+C:\Users\JATHU\Downloads\DC assignment\.vs\ClientServer\bin\Debug\ClientServer.exe
+C:\Users\JATHU\Downloads\DC assignment\.vs\ClientServer\bin\Debug\ClientServer.pdb
+C:\Users\JATHU\Downloads\DC assignment\.vs\ClientServer\bin\Debug\GamingLobbyServerInterface.dll
+C:\Users\JATHU\Downloads\DC assignment\.vs\ClientServer\bin\Debug\GamingLobbyServerInterface.pdb
+C:\Users\JATHU\Downloads\DC assignment\.vs\ClientServer\obj\Debug\ClientServer.csproj.AssemblyReference.cache
+C:\Users\JATHU\Downloads\DC assignment\.vs\ClientServer\obj\Debug\MainWindow.g.cs
+C:\Users\JATHU\Downloads\DC assignment\.vs\ClientServer\obj\Debug\App.g.cs
+C:\Users\JATHU\Downloads\DC assignment\.vs\ClientServer\obj\Debug\ClientServer_MarkupCompile.cache
+C:\Users\JATHU\Downloads\DC assignment\.vs\ClientServer\obj\Debug\ClientServer_MarkupCompile.lref
+C:\Users\JATHU\Downloads\DC assignment\.vs\ClientServer\obj\Debug\MainWindow.baml
+C:\Users\JATHU\Downloads\DC assignment\.vs\ClientServer\obj\Debug\ClientServer.g.resources
+C:\Users\JATHU\Downloads\DC assignment\.vs\ClientServer\obj\Debug\ClientServer.Properties.Resources.resources
+C:\Users\JATHU\Downloads\DC assignment\.vs\ClientServer\obj\Debug\ClientServer.csproj.GenerateResource.cache
+C:\Users\JATHU\Downloads\DC assignment\.vs\ClientServer\obj\Debug\ClientServer.csproj.CoreCompileInputs.cache
+C:\Users\JATHU\Downloads\DC assignment\.vs\ClientServer\obj\Debug\ClientSe.522A2473.Up2Date
+C:\Users\JATHU\Downloads\DC assignment\.vs\ClientServer\obj\Debug\ClientServer.exe
+C:\Users\JATHU\Downloads\DC assignment\.vs\ClientServer\obj\Debug\ClientServer.pdb
+C:\Users\JATHU\Downloads\DC assignment\ClientServer\obj\Debug\ClientServer.csproj.AssemblyReference.cache
+C:\Users\JATHU\Downloads\DC assignment\ClientServer\obj\Debug\dashBoard.baml
+C:\Users\JATHU\Downloads\DC assignment\ClientServer\obj\Debug\dashBoard.g.cs
+C:\Users\JATHU\Downloads\DC assignment\ClientServer\obj\Debug\MainWindow.g.cs
+C:\Users\JATHU\Downloads\DC assignment\ClientServer\obj\Debug\PrivateMessaging.g.cs
+C:\Users\JATHU\Downloads\DC assignment\ClientServer\obj\Debug\App.g.cs
+C:\Users\JATHU\Downloads\DC assignment\ClientServer\obj\Debug\ClientServer_MarkupCompile.cache
+C:\Users\JATHU\Downloads\DC assignment\ClientServer\obj\Debug\ClientServer_MarkupCompile.lref
+C:\Users\JATHU\Downloads\DC assignment\ClientServer\obj\Debug\ClientServer.exe
+C:\Users\JATHU\Downloads\DC assignment\ClientServer\obj\Debug\ClientServer.pdb
+C:\Users\JATHU\Downloads\DC assignment\ClientServer\bin\Debug\ClientServer.exe.config
+C:\Users\JATHU\Downloads\DC assignment\ClientServer\bin\Debug\ClientServer.exe
+C:\Users\JATHU\Downloads\DC assignment\ClientServer\bin\Debug\ClientServer.pdb
+C:\Users\JATHU\Downloads\DC assignment\ClientServer\bin\Debug\GamingLobbyServerInterface.dll
+C:\Users\JATHU\Downloads\DC assignment\ClientServer\bin\Debug\GamingLobbyServerInterface.pdb
+C:\Users\JATHU\Downloads\DC assignment\ClientServer\obj\Debug\MainWindow.baml
+C:\Users\JATHU\Downloads\DC assignment\ClientServer\obj\Debug\PrivateMessaging.baml
+C:\Users\JATHU\Downloads\DC assignment\ClientServer\obj\Debug\ClientServer.g.resources
+C:\Users\JATHU\Downloads\DC assignment\ClientServer\obj\Debug\ClientServer.Properties.Resources.resources
+C:\Users\JATHU\Downloads\DC assignment\ClientServer\obj\Debug\ClientServer.csproj.GenerateResource.cache
+C:\Users\JATHU\Downloads\DC assignment\ClientServer\obj\Debug\ClientServer.csproj.CoreCompileInputs.cache
+C:\Users\JATHU\Downloads\DC assignment\ClientServer\obj\Debug\ClientSe.522A2473.Up2Date
+C:\Users\Aflah\Downloads\DC assignment1\DC assignment\ClientServer\bin\Debug\ClientServer.exe.config
+C:\Users\Aflah\Downloads\DC assignment1\DC assignment\ClientServer\bin\Debug\ClientServer.exe
+C:\Users\Aflah\Downloads\DC assignment1\DC assignment\ClientServer\bin\Debug\ClientServer.pdb
+C:\Users\Aflah\Downloads\DC assignment1\DC assignment\ClientServer\bin\Debug\GamingLobbyServerInterface.dll
+C:\Users\Aflah\Downloads\DC assignment1\DC assignment\ClientServer\bin\Debug\GamingLobbyServerInterface.pdb
+C:\Users\Aflah\Downloads\DC assignment1\DC assignment\ClientServer\obj\Debug\ClientServer.csproj.AssemblyReference.cache
+C:\Users\Aflah\Downloads\DC assignment1\DC assignment\ClientServer\obj\Debug\dashBoard.baml
+C:\Users\Aflah\Downloads\DC assignment1\DC assignment\ClientServer\obj\Debug\dashBoard.g.cs
+C:\Users\Aflah\Downloads\DC assignment1\DC assignment\ClientServer\obj\Debug\GameLobbyRoom.g.cs
+C:\Users\Aflah\Downloads\DC assignment1\DC assignment\ClientServer\obj\Debug\MainWindow.g.cs
+C:\Users\Aflah\Downloads\DC assignment1\DC assignment\ClientServer\obj\Debug\PrivateMessaging.g.cs
+C:\Users\Aflah\Downloads\DC assignment1\DC assignment\ClientServer\obj\Debug\App.g.cs
+C:\Users\Aflah\Downloads\DC assignment1\DC assignment\ClientServer\obj\Debug\ClientServer_MarkupCompile.cache
+C:\Users\Aflah\Downloads\DC assignment1\DC assignment\ClientServer\obj\Debug\ClientServer_MarkupCompile.lref
+C:\Users\Aflah\Downloads\DC assignment1\DC assignment\ClientServer\obj\Debug\GameLobbyRoom.baml
+C:\Users\Aflah\Downloads\DC assignment1\DC assignment\ClientServer\obj\Debug\MainWindow.baml
+C:\Users\Aflah\Downloads\DC assignment1\DC assignment\ClientServer\obj\Debug\PrivateMessaging.baml
+C:\Users\Aflah\Downloads\DC assignment1\DC assignment\ClientServer\obj\Debug\ClientServer.g.resources
+C:\Users\Aflah\Downloads\DC assignment1\DC assignment\ClientServer\obj\Debug\ClientServer.Properties.Resources.resources
+C:\Users\Aflah\Downloads\DC assignment1\DC assignment\ClientServer\obj\Debug\ClientServer.csproj.GenerateResource.cache
+C:\Users\Aflah\Downloads\DC assignment1\DC assignment\ClientServer\obj\Debug\ClientServer.csproj.CoreCompileInputs.cache
+C:\Users\Aflah\Downloads\DC assignment1\DC assignment\ClientServer\obj\Debug\ClientSe.522A2473.Up2Date
+C:\Users\Aflah\Downloads\DC assignment1\DC assignment\ClientServer\obj\Debug\ClientServer.exe
+C:\Users\Aflah\Downloads\DC assignment1\DC assignment\ClientServer\obj\Debug\ClientServer.pdb
+C:\Users\JATHU\Videos\DC assignment1\DC assignment1\DC assignment\ClientServer\bin\Debug\ClientServer.exe.config
+C:\Users\JATHU\Videos\DC assignment1\DC assignment1\DC assignment\ClientServer\bin\Debug\ClientServer.exe
+C:\Users\JATHU\Videos\DC assignment1\DC assignment1\DC assignment\ClientServer\bin\Debug\ClientServer.pdb
+C:\Users\JATHU\Videos\DC assignment1\DC assignment1\DC assignment\ClientServer\bin\Debug\GamingLobbyServerInterface.dll
+C:\Users\JATHU\Videos\DC assignment1\DC assignment1\DC assignment\ClientServer\bin\Debug\GamingLobbyServerInterface.pdb
+C:\Users\JATHU\Videos\DC assignment1\DC assignment1\DC assignment\ClientServer\obj\Debug\ClientServer.csproj.AssemblyReference.cache
+C:\Users\JATHU\Videos\DC assignment1\DC assignment1\DC assignment\ClientServer\obj\Debug\dashBoard.baml
+C:\Users\JATHU\Videos\DC assignment1\DC assignment1\DC assignment\ClientServer\obj\Debug\dashBoard.g.cs
+C:\Users\JATHU\Videos\DC assignment1\DC assignment1\DC assignment\ClientServer\obj\Debug\GameLobbyRoom.g.cs
+C:\Users\JATHU\Videos\DC assignment1\DC assignment1\DC assignment\ClientServer\obj\Debug\MainWindow.g.cs
+C:\Users\JATHU\Videos\DC assignment1\DC assignment1\DC assignment\ClientServer\obj\Debug\PrivateMessaging.g.cs
+C:\Users\JATHU\Videos\DC assignment1\DC assignment1\DC assignment\ClientServer\obj\Debug\App.g.cs
+C:\Users\JATHU\Videos\DC assignment1\DC assignment1\DC assignment\ClientServer\obj\Debug\ClientServer_MarkupCompile.cache
+C:\Users\JATHU\Videos\DC assignment1\DC assignment1\DC assignment\ClientServer\obj\Debug\ClientServer_MarkupCompile.lref
+C:\Users\JATHU\Videos\DC assignment1\DC assignment1\DC assignment\ClientServer\obj\Debug\GameLobbyRoom.baml
+C:\Users\JATHU\Videos\DC assignment1\DC assignment1\DC assignment\ClientServer\obj\Debug\MainWindow.baml
+C:\Users\JATHU\Videos\DC assignment1\DC assignment1\DC assignment\ClientServer\obj\Debug\PrivateMessaging.baml
+C:\Users\JATHU\Videos\DC assignment1\DC assignment1\DC assignment\ClientServer\obj\Debug\ClientServer.g.resources
+C:\Users\JATHU\Videos\DC assignment1\DC assignment1\DC assignment\ClientServer\obj\Debug\ClientServer.Properties.Resources.resources
+C:\Users\JATHU\Videos\DC assignment1\DC assignment1\DC assignment\ClientServer\obj\Debug\ClientServer.csproj.GenerateResource.cache
+C:\Users\JATHU\Videos\DC assignment1\DC assignment1\DC assignment\ClientServer\obj\Debug\ClientServer.csproj.CoreCompileInputs.cache
+C:\Users\JATHU\Videos\DC assignment1\DC assignment1\DC assignment\ClientServer\obj\Debug\ClientSe.522A2473.Up2Date
+C:\Users\JATHU\Videos\DC assignment1\DC assignment1\DC assignment\ClientServer\obj\Debug\ClientServer.exe
+C:\Users\JATHU\Videos\DC assignment1\DC assignment1\DC assignment\ClientServer\obj\Debug\ClientServer.pdb

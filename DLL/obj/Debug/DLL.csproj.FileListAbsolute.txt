@@ -1,0 +1,12 @@
+C:\Users\JATHU\Downloads\DC assignment\.vs\DLL\bin\Debug\DLL.dll
+C:\Users\JATHU\Downloads\DC assignment\.vs\DLL\bin\Debug\DLL.pdb
+C:\Users\JATHU\Downloads\DC assignment\.vs\DLL\obj\Debug\DLL.csproj.AssemblyReference.cache
+C:\Users\JATHU\Downloads\DC assignment\.vs\DLL\obj\Debug\DLL.csproj.CoreCompileInputs.cache
+C:\Users\JATHU\Downloads\DC assignment\.vs\DLL\obj\Debug\DLL.dll
+C:\Users\JATHU\Downloads\DC assignment\.vs\DLL\obj\Debug\DLL.pdb
+C:\Users\Aflah\Downloads\DC assignment1\DC assignment\DLL\bin\Debug\DLL.dll
+C:\Users\Aflah\Downloads\DC assignment1\DC assignment\DLL\bin\Debug\DLL.pdb
+C:\Users\Aflah\Downloads\DC assignment1\DC assignment\DLL\obj\Debug\DLL.csproj.AssemblyReference.cache
+C:\Users\Aflah\Downloads\DC assignment1\DC assignment\DLL\obj\Debug\DLL.csproj.CoreCompileInputs.cache
+C:\Users\Aflah\Downloads\DC assignment1\DC assignment\DLL\obj\Debug\DLL.dll
+C:\Users\Aflah\Downloads\DC assignment1\DC assignment\DLL\obj\Debug\DLL.pdb

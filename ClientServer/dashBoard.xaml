@@ -1,0 +1,142 @@
+﻿<Window x:Class="ChatClient.DashboardWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="Main Dashboard" Height="600" Width="1000" Background="#FFF0F5">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- Heading -->
+        <TextBlock Text="Mortal Kombat X Lobby" FontSize="40" FontWeight="Bold" Foreground="#212121"
+                   Margin="262,0,0,0" VerticalAlignment="Center" HorizontalAlignment="Left" Grid.ColumnSpan="2"/>
+
+        <!-- Logout Button -->
+        <Button Name="btnLogout" Content="Logout" Grid.Row="3" Grid.Column="0" 
+                Background="#E57373" Foreground="White" FontWeight="Bold" 
+                Padding="12,6" Margin="20,0,0,0" VerticalAlignment="Center" HorizontalAlignment="Left" 
+                Click="btnLogout_Click" FontSize="16">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Setter Property="Background" Value="#E57373"/>
+                    <Setter Property="Foreground" Value="White"/>
+                    <Setter Property="BorderBrush" Value="#D32F2F"/>
+                    <Setter Property="BorderThickness" Value="2"/>
+                    <Setter Property="Padding" Value="12,6"/>
+                    <Setter Property="FontSize" Value="16"/>
+                    <Setter Property="FontWeight" Value="Bold"/>
+                    <Setter Property="FocusVisualStyle" Value="{x:Null}"/>
+                    <Setter Property="Template">
+                        <Setter.Value>
+                            <ControlTemplate TargetType="Button">
+                                <Border Background="{TemplateBinding Background}" 
+                                        BorderBrush="{TemplateBinding BorderBrush}" 
+                                        BorderThickness="{TemplateBinding BorderThickness}" 
+                                        Padding="{TemplateBinding Padding}" CornerRadius="8">
+                                    <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                </Border>
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </Style>
+            </Button.Style>
+        </Button>
+
+        <!-- Title -->
+        <TextBlock x:Name="lblWelcome" Text="" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="3" 
+                   FontSize="36" FontWeight="Bold" Foreground="#212121" 
+                   Margin="20,10,0,0" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+
+        <!-- Available Rooms Section -->
+        <Border Grid.Row="2" Grid.Column="0" Margin="30,20,10,73" Padding="10" Background="#E8F5E9"
+                BorderBrush="#BDBDBD" BorderThickness="1" CornerRadius="8" Grid.RowSpan="2">
+            <StackPanel>
+                <TextBlock Text="Available Rooms" FontSize="24" FontWeight="SemiBold" Foreground="#424242"/>
+                <ScrollViewer x:Name="scrRooms" Margin="0,10,0,0" Width="399">
+                    <StackPanel x:Name="roomStackPanel"/>
+                </ScrollViewer>
+            </StackPanel>
+        </Border>
+
+        <!-- New Room Section -->
+        <Border Grid.Row="2" Grid.Column="1" Margin="16,20,26,190" Padding="10" Background="#E8F5E9"
+                BorderBrush="#BDBDBD" BorderThickness="1" CornerRadius="8" Grid.ColumnSpan="2">
+            <StackPanel Margin="0,0,0,-1">
+                <TextBlock Text="New Room Name" FontSize="16" FontWeight="SemiBold" Foreground="#424242"/>
+                <TextBox x:Name="txtNewRoom" Margin="0,5" Padding="10" Height="39" Background="#FFFFFF"
+                         BorderBrush="#BDBDBD" BorderThickness="1"/>
+                <Button x:Name="btnCreateRoom" Content="Create" 
+                        Background="#66BB6A" Foreground="White" FontWeight="Bold" 
+                        Padding="12,6" FontSize="16" Click="btnCreateRoom_Click" Height="59" Width="371">
+                    <Button.Style>
+                        <Style TargetType="{x:Type Button}">
+                            <Setter Property="Background" Value="#66BB6A"/>
+                            <Setter Property="Foreground" Value="White"/>
+                            <Setter Property="BorderBrush" Value="Transparent"/>
+                            <Setter Property="BorderThickness" Value="0"/>
+                            <Setter Property="Padding" Value="12,6"/>
+                            <Setter Property="FontSize" Value="16"/>
+                            <Setter Property="FontWeight" Value="Bold"/>
+                            <Setter Property="FocusVisualStyle" Value="{x:Null}"/>
+                            <Setter Property="Template">
+                                <Setter.Value>
+                                    <ControlTemplate TargetType="{x:Type Button}">
+                                        <Border Background="{TemplateBinding Background}" 
+                                                BorderBrush="{TemplateBinding BorderBrush}" 
+                                                BorderThickness="{TemplateBinding BorderThickness}" 
+                                                Padding="{TemplateBinding Padding}" CornerRadius="8">
+                                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                        </Border>
+                                    </ControlTemplate>
+                                </Setter.Value>
+                            </Setter>
+                        </Style>
+                    </Button.Style>
+                </Button>
+            </StackPanel>
+        </Border>
+
+        <!-- Private Messages Button -->
+        <Button Name="btnPrivateMessages" Content="Private Messages" Grid.Row="3" Grid.Column="2" 
+                Background="#4CAF50" Foreground="White" FontWeight="Bold" 
+                Padding="12,6" Margin="20" VerticalAlignment="Center" HorizontalAlignment="Center" 
+                FontSize="16" Click="btnPrivateMessages_Click">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Setter Property="Background" Value="#4CAF50"/>
+                    <Setter Property="Foreground" Value="White"/>
+                    <Setter Property="BorderBrush" Value="Transparent"/>
+                    <Setter Property="BorderThickness" Value="0"/>
+                    <Setter Property="Padding" Value="12,6"/>
+                    <Setter Property="FontSize" Value="16"/>
+                    <Setter Property="FontWeight" Value="Bold"/>
+                    <Setter Property="FocusVisualStyle" Value="{x:Null}"/>
+                    <Setter Property="Template">
+                        <Setter.Value>
+                            <ControlTemplate TargetType="Button">
+                                <Border Background="{TemplateBinding Background}" 
+                                        BorderBrush="{TemplateBinding BorderBrush}" 
+                                        BorderThickness="{TemplateBinding BorderThickness}" 
+                                        Padding="{TemplateBinding Padding}" CornerRadius="8">
+                                    <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                </Border>
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </Style>
+            </Button.Style>
+        </Button>
+    </Grid>
+</Window>

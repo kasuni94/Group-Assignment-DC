@@ -1,0 +1,55 @@
+﻿<Window x:Class="ClientServer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ClientServer"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+
+    <Grid>
+        <!-- Login Screen -->
+        <Border x:Name="LoginScreen" BorderBrush="DarkBlue" BorderThickness="10" Width="250" Margin="150" Visibility="Visible" Background="White">
+            <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+                <TextBlock Text="Username:" Margin="4" HorizontalAlignment="Center"/>
+                <TextBox Name="UsernameTextBox" Width="200" Margin="5" Background="Azure"/>
+                <Button Name="LoginButton" Content="Login" Width="100" Margin="5" Background="CadetBlue" Click="LoginButton_Click"/>
+            </StackPanel>
+        </Border>
+
+        <!-- Welcome Screen -->
+        <Border x:Name="WelcomeGameScreen" Visibility="Hidden" Background="CadetBlue">
+            <Grid>
+                <TextBlock FontSize="40" FontWeight="Bold" Foreground="Black" VerticalAlignment="Top" HorizontalAlignment="Center" Height="110" Width="320" TextAlignment="Center" Margin="0,78,0,0">
+                    <Run Text="Welcome to The "/><LineBreak/><Run Text="Game Lobby"/>
+                </TextBlock>
+                <Button x:Name="CreateLobbyButton" Content="Create Lobby Room" Background="LightGreen" FontWeight="Bold" FontSize="20" Margin="485,238,127,146" Height="50" Click="CreateLobbyButton_Click"/>
+                <Button x:Name="LogOutButton" Content="Log Out" Background="Red" FontWeight="Bold" FontSize="20" Margin="180,238,520,146" Width="100" Height="50" Click="LogOutButton_Click"/>
+
+                <!-- Add button to open private messaging screen -->
+                <Button x:Name="BtnPrivateMessages" Content="Private Messages" Background="LightBlue" FontWeight="Bold" FontSize="20" Margin="250,300,250,100" Height="50" Click="BtnPrivateMessages_Click"/>
+            </Grid>
+        </Border>
+
+        <!-- Lobby Screen -->
+        <Border x:Name="LobbyScreen" Visibility="Hidden" Background="CadetBlue">
+            <Grid Margin="10">
+                <TextBlock Text="Lobby Name:" FontSize="16" FontWeight="Bold" Foreground="White" Margin="10,10,0,0"/>
+                <TextBox x:Name="LobbyNameTextBox" Width="200" Margin="10,40,0,0" Height="30" Background="Azure"/>
+
+                <TextBlock Text="Current Lobby:" FontSize="16" FontWeight="Bold" Foreground="White" Margin="10,90,0,0"/>
+                <TextBox x:Name="CurrentLobbyTextBox" Width="200" Margin="10,120,0,0" Height="30" Background="Azure"/>
+
+                <TextBlock Text="Message:" FontSize="16" FontWeight="Bold" Foreground="White" Margin="10,170,0,0"/>
+                <TextBox x:Name="MessageTextBox" Width="200" Margin="10,200,0,0" Height="30" Background="Azure"/>
+
+                <Button x:Name="SendMessageButton" Content="Send Message" Width="150" Margin="10,250,0,0" Height="40" Background="LightGreen" FontWeight="Bold" Click="SendMessageButton_Click"/>
+                <Button x:Name="LeaveLobbyButton" Content="Leave Lobby" Width="150" Margin="10,300,0,0" Height="40" Background="Red" FontWeight="Bold" Click="LeaveLobbyButton_Click"/>
+
+                <!-- Add TextBox for Private Message recipient -->
+                <TextBlock Text="Private Message User:" FontSize="16" FontWeight="Bold" Foreground="White" Margin="10,350,0,0"/>
+                <TextBox x:Name="PrivateMessageUserTextBox" Width="200" Margin="10,380,0,0" Height="30" Background="Azure"/>
+            </Grid>
+        </Border>
+    </Grid>
+</Window>
